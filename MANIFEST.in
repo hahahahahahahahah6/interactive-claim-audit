@@ -1,0 +1,3 @@
+include LICENSE README.md
+recursive-include tests *.py *.md
+include tests/fixtures/testonly/.env
