@@ -1,0 +1,2 @@
+def work():
+    input("Continue? ")
